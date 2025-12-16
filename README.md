@@ -44,4 +44,3 @@ Expérience utilisateur :
 Validation : Vérifiez toujours que le modèle est « manifold » (étanche).
 Utilisation des coordonnées pour la 3D.
 Comprendre le schéma
->>>>>>> 2e812e9c7f8f7a0ad592571e278146bcc66ad5a6
