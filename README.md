@@ -1,5 +1,5 @@
 Projet K
-
+Test 2
 Équipe : Antoine, Clément, Simon, Eliott
 
 Objectif : Développer un outil de génération de fichiers 3D modifiables et exportables pour l’impression 3D.
