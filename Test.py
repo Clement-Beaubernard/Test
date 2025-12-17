@@ -1,8 +1,1 @@
-print('hello word')
-print("test")
-print('test')
-print('test')
-print('coucou')
-print('essai 9H40')
-print('test maison')
-print("test chez clem 14h35")
+#J'ai tout supprimé car 1.ca servait a rien et 2.je voulais voir si ca marchait aussi quand je suppr
