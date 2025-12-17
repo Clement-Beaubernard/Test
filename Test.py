@@ -1,1 +1,1 @@
-#J'ai tout supprimé car 1.ca servait a rien et 2.je voulais voir si ca marchait aussi quand je suppr
+#Est ce que vous savez quelles bibliothèques on va devoir importer, parce que la j'ai trop envie d'avancer sur le projet
